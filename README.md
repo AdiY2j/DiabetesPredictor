@@ -28,8 +28,9 @@ GUI for end user interaction was developed using Flask Framework and HTML/CSS in
 
 Results:
 
-Diabetic if the predicted value is ‘1’
-Non-Diabetic if the predicted value is ‘0’
+Diabetic if the predicted value is ‘1’.
+
+Non-Diabetic if the predicted value is ‘0’.
 
 
 At last, it was totally new experience for me at first sight I find it difficult but with the help of my friends, I was able to complete this so Thanks everyone. Hope you like it as well. 

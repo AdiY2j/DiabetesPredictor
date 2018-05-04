@@ -33,4 +33,11 @@ Diabetic if the predicted value is ‘1’.
 Non-Diabetic if the predicted value is ‘0’.
 
 
+Inorder to execute it :
+
+1] Write the following command in cmd : controller.py
+
+2] It will start the server and provide an url i.e. "http://127.0.0.1:5000" copy it in browser and see the magic !
+
+
 At last, it was totally new experience for me at first sight I find it difficult but with the help of my friends, I was able to complete this so Thanks everyone. Hope you like it as well. 
